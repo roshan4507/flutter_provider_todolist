@@ -1,6 +1,6 @@
 # todoey
 
-A Todo list application made with Flutter.
+A Todo list application made in Flutter with Provider pattern.
 
 ## Getting Started
 
